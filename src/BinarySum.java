@@ -1,6 +1,6 @@
 // binary strings sum in ALU style, I know that, just i can parse it as an integer sum and
 // turn it back to binary but, I don't know how long is string;
-// O(n) solution because of using insert method of string builder.
+
 
 public class BinarySum{
     public static String binarySum(String a,String b){
